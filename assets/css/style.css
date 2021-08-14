@@ -1,0 +1,25 @@
+body {
+	font-family: 'Inter' , sans-serif;
+}
+
+hr {
+	width: 70%;
+	border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img-custom {
+	height: 90%;
+	width: 90%;
+
+}
+
+.post-date {
+	background: #f4f4f4;
+	padding: 4px;
+	margin: 3px 0;
+	display: block;
+}
+
